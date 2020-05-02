@@ -3,4 +3,11 @@ layout: post
 title: Post #2 title.
 ---
 
-some confusion
+post 2
+
+some content
+
+and more content
+
+
+
